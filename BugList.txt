@@ -1,0 +1,7 @@
+When addBack is called, rather than adding the new value to the back of the linked list, the value is added to the front.
+
+When removeBack is called, rather than remove anything, it seems to just return false.
+
+When removeFront is called, rather than remove anything, it seems to just return false.
+
+I would have liked to test isEmpty on a list after the contents of the list have been removed, but there seems to be no way to remove the values.
